@@ -1,0 +1,17 @@
+# LoansForRealtors
+
+> LoansForRealtors (loansforrealtors.com) — Matches real estate agents with licensed specialists who qualify realtors on gross 1099 commissions or bank-statement deposits for purchases, cash-out refinancing, HELOCs/HELOANs, and DSCR investor loans. LoansForRealtors is an AdaptLend service (adaptlend.com) and is not a lender.
+
+## Key facts
+
+- Realtors qualify on gross 1099 commissions (~90% of gross, no tax returns) or 12–24 months of bank deposits.
+- Cash-out refinancing and HELOCs/HELOANs are available without tax returns; second liens leave the existing first-mortgage rate untouched.
+- Agent-investors can use DSCR loans where the rental's income qualifies the loan; LLC vesting is standard.
+- 12 months of commission history can be enough with an established license; conventional typically wants two years.
+- Filling out the form does not affect credit; a credit check only happens if the borrower moves forward with a specialist.
+
+## How it works
+
+1. Answer a few plain-English questions (about two minutes, no credit check).
+2. LoansForRealtors matches the borrower with a licensed specialist for this exact situation.
+3. The specialist contacts the borrower within one business day; the match also arrives by email.
