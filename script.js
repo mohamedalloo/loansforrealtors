@@ -331,13 +331,7 @@ const SITE = {
       "meta": "Realtor HELOC \u00b7 Charlotte, NC"
     }
   ],
-  "confetti": [
-    "#a04455",
-    "#c76e7e",
-    "#f6e7ea",
-    "#d4af37",
-    "#332428"
-  ]
+  "confetti": ["#10b981", "#34d399", "#f5b942", "#ffffff", "#1a2440"]
 };
 
 const ICONS = {
