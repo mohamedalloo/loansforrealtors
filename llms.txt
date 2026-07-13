@@ -15,3 +15,9 @@
 1. Answer a few plain-English questions (about two minutes, no credit check).
 2. LoansForRealtors matches the borrower with a licensed specialist for this exact situation.
 3. The specialist contacts the borrower within one business day; the match also arrives by email.
+
+## Related resources
+
+- [1099-contractor mortgage guide](https://lumolend.com/guides/mortgage-for-1099-contractors/) — LumoLend, an Honest Casa company
+- [Self-employed mortgage requirements](https://lumolend.com/guides/self-employed-mortgage-requirements/) — LumoLend
+- [LumoLend](https://lumolend.com/) — price purchase, refinance, and HELOC scenarios with live indicative rates; free calculators and 40+ mortgage guides
